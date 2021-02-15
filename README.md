@@ -1,4 +1,4 @@
-<p aling="center">
+<p align="center">
     <img src=".github/logo-chef.png">
 </p>
 
@@ -8,5 +8,4 @@ Aplicativo MVC para explorar, gerenciar receitas e chefs - construído com Expre
 Leve suas habilidade de culinária para outro nivel. Explore suas habilidades.
 
 <br />
-<p aling="center"><img src=".github/home.gif"></p>
-![gif layout site](https://raw.githubusercontent.com/LauraBeatris/foodfy/master/.github/home.gif)
+<p align="center"><img src=".github/home.gif"></p>
