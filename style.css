@@ -1,0 +1,27 @@
+
+
+/* === GERAL === */
+* {
+    border: 0;
+    margin: 0;
+    padding: 0;
+}
+
+
+/* === CABEÇALHO === */
+
+header div {
+    padding: 36px;
+}
+
+img {
+    padding-left: 231;
+    padding-right: 200px; 
+}
+
+.links {
+    text-decoration: none;
+    font-size: 16px;
+    padding-right: 20px;
+    color: black;
+}
