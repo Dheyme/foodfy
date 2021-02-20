@@ -15,8 +15,8 @@ header div {
 }
 
 img {
-    padding-left: 231;
-    padding-right: 200px; 
+    padding-left: 130px;
+    padding-right: 75px; 
 }
 
 .links {
@@ -24,4 +24,35 @@ img {
     font-size: 16px;
     padding-right: 20px;
     color: black;
+}
+
+/* === BANNER === */
+
+.banner {
+    width: 940px;
+    margin: 0 auto;
+    background:  #FBDFDB;
+    border-radius: 30px;
+    
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    padding-top: 70px;
+    padding-right: 20px;
+}
+
+
+.content-banner-img img {
+    width: 216px;
+    padding: 0;
+    padding-left: 160px;
+}
+
+.content-banner-description {
+    width: 316px;
+    padding-left: 60px;
+    padding-top: 50px;
+}
+
+.content-banner-description h1 {
+    padding-bottom: 10px;
 }
