@@ -31,6 +31,7 @@ img {
 .banner {
     width: 940px;
     margin: 0 auto;
+    margin-bottom: 40px;
     background:  #FBDFDB;
     border-radius: 30px;
     
@@ -55,4 +56,51 @@ img {
 
 .content-banner-description h1 {
     padding-bottom: 10px;
+}
+
+/* === CARDS === */
+
+.mor_acess
+{
+    margin-left: 155px;
+    padding-bottom: 3px;
+    font-family: Roboto;
+}
+
+.cards
+{
+    
+    margin: 0 auto;
+    max-width: 950px;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 20px;
+    padding: 15px; 
+    
+}
+
+
+.card_img_container img
+{
+    padding: 0px;
+    width: 100%;
+    border-radius: 15px;
+}
+
+.card_info,
+.autor_info
+{
+    margin-top: 6px;
+    font-family: Roboto;
+}
+
+.card_info
+{
+    font-size: 18px;
+}
+
+.autor_info
+{
+    color: #777777;
+    font-size: 14px;
 }
