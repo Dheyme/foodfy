@@ -104,3 +104,18 @@ img {
     color: #777777;
     font-size: 14px;
 }
+
+/* === ABOUT === */
+
+.content-about
+{
+    margin-left: 155px;
+    padding-bottom: 20px;
+    font-family: Roboto;
+}
+
+.content-about h3,p
+{
+    margin-bottom: 20px;
+    max-width: 750px;
+}
