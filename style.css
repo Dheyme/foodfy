@@ -2,6 +2,7 @@
 
 /* === GERAL === */
 * {
+
     border: 0;
     margin: 0;
     padding: 0;
@@ -11,24 +12,37 @@
 /* === CABEÇALHO === */
 
 header div {
+
     padding: 36px;
 }
 
 img {
+
     padding-left: 130px;
     padding-right: 75px; 
 }
 
 .links {
+
     text-decoration: none;
     font-size: 16px;
     padding-right: 20px;
     color: black;
 }
 
+
+
+a:hover {
+
+	text-decoration: none; 
+	color: #ada6a5;
+    transition: 200ms;
+}
+
 /* === BANNER === */
 
 .banner {
+
     width: 940px;
     margin: 0 auto;
     margin-bottom: 40px;
@@ -43,32 +57,34 @@ img {
 
 
 .content-banner-img img {
+
     width: 216px;
     padding: 0;
     padding-left: 160px;
 }
 
 .content-banner-description {
+
     width: 316px;
     padding-left: 60px;
     padding-top: 50px;
 }
 
 .content-banner-description h1 {
+
     padding-bottom: 10px;
 }
 
 /* === CARDS === */
 
-.mor_acess
-{
+.mor_acess {
+
     margin-left: 155px;
     padding-bottom: 3px;
     font-family: Roboto;
 }
 
-.cards
-{
+.cards {
     
     margin: 0 auto;
     max-width: 950px;
@@ -80,42 +96,42 @@ img {
 }
 
 
-.card_img_container img
-{
+.card_img_container img {
+
     padding: 0px;
     width: 100%;
     border-radius: 15px;
 }
 
 .card_info,
-.autor_info
-{
+.autor_info {
+
     margin-top: 6px;
     font-family: Roboto;
 }
 
-.card_info
-{
+.card_info {
+
     font-size: 18px;
 }
 
-.autor_info
-{
+.autor_info {
+
     color: #777777;
     font-size: 14px;
 }
 
 /* === ABOUT === */
 
-.content-about
-{
+.content-about {
+
     margin-left: 155px;
     padding-bottom: 20px;
     font-family: Roboto;
 }
 
-.content-about h3,p
-{
+.content-about h3,p {
+
     margin-bottom: 20px;
     max-width: 750px;
 }
