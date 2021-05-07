@@ -11,3 +11,11 @@ Leve suas habilidade de culinária para outro nivel. Explore suas habilidades.
 
 <br />
 <p align="center"><img src=".github/home.gif"></p>
+
+## :memo: Licença
+
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](/LICENSE) para mais detalhes.
+
+---
+
+Feito com :purple_heart: by [Dheyme Sena](https://www.linkedin.com/in/dheyme-sena/)
