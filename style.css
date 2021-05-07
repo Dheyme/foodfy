@@ -101,6 +101,7 @@ img {
     padding: 0px;
     width: 100%;
     border-radius: 15px;
+    cursor: pointer;
 }
 
 .card_info,
@@ -136,6 +137,21 @@ img {
     max-width: 750px;
 }
 
+/* === FOOTER  === */
+
+footer p {
+    max-width: 1300px;
+    text-align: center;
+
+    padding: 15px;
+    margin-bottom: 0px;
+    background: #EEEEEE;
+    color: #999999;
+
+    font-family: Roboto-Regular;
+}
+
+
 /* === MODAL === */
 
 .modal-overlay {
@@ -145,8 +161,8 @@ img {
     height: 100%;
     position: fixed;
     top: 0;
-    opacity: 1;
-    visibility: visible;
+    opacity: 0; /* é 0 */
+    visibility: hidden; /*é hidden */
 }
 
 
@@ -197,6 +213,14 @@ img {
     height: 200px;
     border-radius: 15px;
 }
+
+/* === MODAL.ACTIVE === */
+
+.modal-overlay.active {
+    opacity: 1;
+    visibility: visible;
+}
+
 
 
 
