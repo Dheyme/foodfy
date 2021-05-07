@@ -5,9 +5,25 @@
 Status: Em desenvolvimento!!!!!
 
 # foodfy
-Aplicativo MVC para explorar, gerenciar receitas e chefs - construído com Express, Nunjucks e Postgres
 
-Leve suas habilidade de culinária para outro nivel. Explore suas habilidades.
+<p align="center">
+
+  <a href="https://www.linkedin.com/in/dheyme-sena/">
+    <img alt="Made by Dheyme Sena" src="https://img.shields.io/badge/made%20by-DheymeSena-%23F8952D">
+  </a>
+
+  <a href="LICENSE" >
+    <img alt="License" src="https://img.shields.io/badge/license-MIT-%23F8952D">
+  </a>
+
+</p>
+
+Aplicativo MVC para explorar, gerenciar receitas e chefs.
+
+- construído com Express, Nunjucks e Postgres.
+
+Leve suas habilidade de culinária para outro nivel.
+Explore suas habilidades.
 
 <br />
 <p align="center"><img src=".github/home.gif"></p>
